@@ -15,3 +15,10 @@ background-image: url("bg.jpg");
     width:100%;
     text-align: left;
 }
+#footer{
+    bottom: 0px;
+    position: fixed;
+    width:100%;
+    background-color: gray;
+    margin-bottom: 0;
+}
