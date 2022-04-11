@@ -1,6 +1,7 @@
 body
 {
 background-image: url("bg.jpg");
+background-size: 100%;
 }
 #tag_heading{
     display :inline;
@@ -21,4 +22,10 @@ background-image: url("bg.jpg");
     width:100%;
     background-color: gray;
     margin-bottom: 0;
+}
+canvas{
+    margin-bottom:100px;
+    border-color: beige;
+    border-width:5px;
+    border-style: solid;
 }
